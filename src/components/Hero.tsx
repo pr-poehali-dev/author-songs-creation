@@ -7,6 +7,9 @@ const Hero = () => {
         <h1 className="font-montserrat text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
           АВТОРСКИЕ ПЕСНИ
         </h1>
+        <p className="font-montserrat text-2xl md:text-3xl text-purple-200 mb-8 font-light tracking-wide">
+          Авдеев Владимир
+        </p>
         <p className="font-open-sans text-xl md:text-2xl text-gray-300 mb-8">
           Мелодии, рождённые в душе • Слова, написанные сердцем
         </p>
